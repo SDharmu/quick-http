@@ -1,3 +1,3 @@
 # quick-http-client
 
-A lightweight client library which has very basic feature set and lightening fast.
+A lightweight client library which is lightening fast but has very basic feature set.
