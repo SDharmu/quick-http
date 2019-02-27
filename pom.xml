@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.abs.http-client</groupId>
-	<artifactId>quick-http-client</artifactId>
+	<artifactId>quick-http</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>quick-http-client</name>
+	<name>quick-http</name>
 
 	<dependencies>
 		<dependency>
